@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#root {
+  /* background-color: lightblue;   */
+}
+
+.sidebar_profile {
+  width: 300px;
+}
