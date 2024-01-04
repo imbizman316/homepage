@@ -20,7 +20,13 @@ export default function Navigation () {
               <i></i>
               <span>Resume</span>
             </NavLink>
-          </li>          
+          </li>       
+          <li>
+            <NavLink exact to='/portfolio' activeClassName="navActive">
+              <i></i>
+              <span>Portfolio</span>
+            </NavLink>
+          </li>   
         </ul>
       </div>
     </div>
