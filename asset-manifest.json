@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/homepage/static/css/main.596aa126.css",
-    "main.js": "/homepage/static/js/main.4d85a610.js",
+    "main.js": "/homepage/static/js/main.a7221bb2.js",
     "static/js/787.c096999d.chunk.js": "/homepage/static/js/787.c096999d.chunk.js",
+    "static/media/Japan_Tokio_Skyline_und_Mt._Fuji.jpg": "/homepage/static/media/Japan_Tokio_Skyline_und_Mt._Fuji.36129c32c5558b03bf69.jpg",
     "index.html": "/homepage/index.html",
     "main.596aa126.css.map": "/homepage/static/css/main.596aa126.css.map",
-    "main.4d85a610.js.map": "/homepage/static/js/main.4d85a610.js.map",
+    "main.a7221bb2.js.map": "/homepage/static/js/main.a7221bb2.js.map",
     "787.c096999d.chunk.js.map": "/homepage/static/js/787.c096999d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.596aa126.css",
-    "static/js/main.4d85a610.js"
+    "static/js/main.a7221bb2.js"
   ]
 }
