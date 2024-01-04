@@ -18,4 +18,5 @@ code {
 
 .sidebar_profile {
   width: 300px;
+  border: blue 1px dotted;
 }
