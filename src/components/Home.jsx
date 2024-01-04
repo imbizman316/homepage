@@ -5,9 +5,13 @@ export default function Home () {
   
   return (
 
-    <div>
+    <div className="main-top">
       <Navigation />
-      This is Home
+      <div>
+        <p>Welcome to my website. My name is Mike.
+          My dream is to become a formiddable programmer.
+        </p>
+      </div>
     </div>
 
   )

@@ -1,12 +1,18 @@
 import React from "react";
 import Navigation from "./Navigation";
+import ResumeContent from "./resume/ResumeContent";
 
 export default function Resume () {
 
   return (
-    <div>
+    <div className="main-top">
       <Navigation />
-      This is Resume
+      <div>
+
+        <h4>Resume Section</h4>
+        <ResumeContent />
+
+      </div>
     </div>
   )
 }

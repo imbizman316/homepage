@@ -18,7 +18,7 @@ function App() {
         </Routes>        
 
       </BrowserRouter>
-      <h5>copyright 2024 Mike Lee</h5>
+      <h5 className='copyright'>copyright 2024 Mike Lee</h5>
     </>
   );
 }
