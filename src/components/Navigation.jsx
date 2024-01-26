@@ -27,8 +27,14 @@ export default function Navigation () {
             <NavLink exact to='/portfolio' activeClassName="navActive">
               <i></i>
               <span>Portfolio</span>
+            </NavLink>            
+          </li>
+          <li>
+            <NavLink exact to='/user_validate' activeClassName="navActive">
+                <i></i>
+                <span>User Validate</span>
             </NavLink>
-          </li>   
+          </li>
         </ul>
       </div>
     </div>
