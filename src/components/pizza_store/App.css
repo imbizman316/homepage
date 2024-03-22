@@ -1,0 +1,296 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url("https://www.shutterstock.com/image-photo/untouched-tropical-beach-sri-lanka-600nw-109674992.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;  
+  background-position: center;  
+}
+
+.header {  
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  /* margin: 10px; */
+  margin-bottom: 5px;
+  border: 5px orange solid;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.receipt {
+  
+}
+
+.dough {
+  background-color: white;
+  margin-top: 10px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: column;
+  width: 700px;
+  height: 400px;
+}
+
+.dough_layout {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+}
+
+.role {
+  width: 200px;
+  height: 100px;
+  margin-right: 10px;
+  border: 1px solid black;
+}
+
+.powder {
+  width: 200px;
+  height: 100px;
+  margin-right: 10px;
+  border: 1px solid black;
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.tray {
+  width: 200px;
+  height: 50px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.tray div {
+  border: 1px solid black;
+  width: 30%;
+  text-align: center;
+}
+
+.doughTable {
+  display: flex;  
+  border: 1px solid black;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.doughTable div {
+  height: 100px;
+  width: 60px;
+  border: 1px solid black;
+
+}
+
+.getDough div {
+  width: 200px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.ingredients {
+  background-color: white;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;  
+}
+
+.ingredients_boxes {
+  background-color: white;
+  display: flex;
+  height: 250px;  
+}
+
+.box{
+  background-color: white;
+  width:  70px;  
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;  
+}
+
+.box div {
+  border: 1px solid black;
+  height: 40%;
+  width: 90%;
+}
+  
+.pizza {  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.circle {
+  border: 1px solid black;
+  width: 285px;
+  height: 285px;
+  border-radius: 50%;
+}
+
+.circle2 {
+  border: 1px solid black;
+  width: 140px;
+  height: 285px;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+}
+
+.circle3 {
+  border: 1px solid black;
+  width: 140px;
+  height: 285px;
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
+}
+
+.half_half {
+  display: flex;
+}
+
+.edge_cheese {
+  height: 50px;
+  border: 1px solid black;
+  width: 300px;
+  text-align: center;
+}
+
+.option_board {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;  
+}
+
+.option {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+}
+
+.option:hover {
+  background-color: yellow;
+  border: 1px blue solid;
+}
+
+.stage {
+  background-color: white;
+  border: 5px solid black;
+  width: 700px;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  opacity: 90%;
+}
+
+.button_container {
+  width: 100%;
+  display: flex;  
+  align-items: center;
+  justify-content: space-between;
+}
+
+button {
+  background-color: brown;
+  color: white;
+  border: none;
+  width: 95px;
+  height: 40px;
+  margin-bottom: 15px;
+}
+
+button:focus {
+  background-color: darkblue;
+}
+
+button:hover {
+  background-color: chocolate;
+}
+
+.stage_menu {  
+  width: 500px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between; 
+}
+
+.option_board_menu {
+  display: grid;
+  grid-template-columns: 150px 150px 100px;
+  grid-template-rows: 120px 120px 120px 120px;
+  padding: 0;
+  margin: 0;  
+}
+
+.option_menu {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px; 
+}
+
+.option_menu:hover {
+  border: red 5px solid;
+}
+
+.menu_top {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border: 1px black solid;
+}
+
+.menu_two {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+}
+
+.bottom_summary {
+  margin-top: 10px;
+  display: flex;
+  width: 660px;
+  border: 5px solid black;
+  padding: 20px;
+  background-color: white;
+}

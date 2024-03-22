@@ -2,6 +2,7 @@ import React from 'react';
 import Data from './Data';
 import Card from './Card';
 import { nanoid, random } from 'nanoid';
+import './main.css'
 
 export default function PortfolioContent(){
 

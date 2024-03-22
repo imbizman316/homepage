@@ -2,6 +2,7 @@ import React from 'react';
 import Home from './components/Home';
 import Resume from './components/Resume';
 import Porfolio from './components/Portfolio';
+import PizzaStore from './components/PizzaStore';
 import NotFound from './components/NotFound';
 import UserValidate from './components/portfolio/UserValidate'
 
@@ -17,6 +18,7 @@ function App() {
           <Route path="/resume" Component={Resume}/>
           <Route path='/portfolio' Component={Porfolio}/>
           <Route path='/user_validate' Component={UserValidate}/>
+          <Route path='/pizza_store' Component={PizzaStore}/>
           <Route path="/homepage" Component={Home} />
           <Route path="*" Component={NotFound}/>
         </Routes>        

@@ -35,6 +35,12 @@ export default function Navigation () {
                 <span>User Validate</span>
             </NavLink>
           </li>
+          <li>
+            <NavLink exact to='/pizza_store' activeClassName="navActive">
+                <i></i>
+                <span>Pizza Store</span>
+            </NavLink>
+          </li>
         </ul>
       </div>
     </div>
