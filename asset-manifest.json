@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.aa57b130.css",
-    "main.js": "/homepage/static/js/main.6acd4ea6.js",
+    "main.css": "/homepage/static/css/main.b7692f67.css",
+    "main.js": "/homepage/static/js/main.c7b894d4.js",
     "static/js/787.c096999d.chunk.js": "/homepage/static/js/787.c096999d.chunk.js",
     "static/media/Japan_Tokio_Skyline_und_Mt._Fuji.jpg": "/homepage/static/media/Japan_Tokio_Skyline_und_Mt._Fuji.36129c32c5558b03bf69.jpg",
     "static/media/옥수수새우피자.jpg": "/homepage/static/media/옥수수새우피자.afc6e9558a942bebcaeb.jpg",
@@ -20,12 +20,12 @@
     "static/media/User_Photo_leeh7_1.jpg": "/homepage/static/media/User_Photo_leeh7_1.97b3747f5ab2ef955c0c.jpg",
     "static/media/logo.png": "/homepage/static/media/logo.e6d44eea928fb7379d3e.png",
     "index.html": "/homepage/index.html",
-    "main.aa57b130.css.map": "/homepage/static/css/main.aa57b130.css.map",
-    "main.6acd4ea6.js.map": "/homepage/static/js/main.6acd4ea6.js.map",
+    "main.b7692f67.css.map": "/homepage/static/css/main.b7692f67.css.map",
+    "main.c7b894d4.js.map": "/homepage/static/js/main.c7b894d4.js.map",
     "787.c096999d.chunk.js.map": "/homepage/static/js/787.c096999d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa57b130.css",
-    "static/js/main.6acd4ea6.js"
+    "static/css/main.b7692f67.css",
+    "static/js/main.c7b894d4.js"
   ]
 }
