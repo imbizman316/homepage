@@ -19,13 +19,9 @@ export default function Home() {
         ></img>
         <p>
           My name is Mike and welcome to my website. Here you can find my
-          footsteps in my career as well as my hobbies and interest.
+          porfolio.
         </p>
-        <p>
-          Although I stepped my foot in the game industry as an assistant
-          overseas business manager, later on in my career, I realized that
-          coding was where I fitted the best.
-        </p>
+        <p>yoyoyo</p>
       </div>
     </div>
   );
